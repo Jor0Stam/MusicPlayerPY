@@ -1,0 +1,6 @@
+mutagen==1.35.1
+pkg-resources==0.0.0
+prettytable==0.7.2
+xmms2 - sudo apt-get install xmms2
+lame - sudo apt-get install lame
+sox - sudo apt-get install sox
